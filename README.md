@@ -1,6 +1,3 @@
-![Node.js CI](https://github.com/StephenDavidson/express-jest-example/workflows/Node.js%20CI/badge.svg)
-# express-jest-example
-Example of jest running with an express REST api
 
 # setup
 
